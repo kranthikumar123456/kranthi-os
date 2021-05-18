@@ -67,12 +67,14 @@ struct FIFO_Queue{
     }
     
 }
-```
+
 // A Process Block.
 struct ProcessBlock{
     ProcessBlock* next;
     int* process_block;
 }
+```
+
 
 Thus, a FIFO semaphore can be implemented. A queue is used to manage the waiting processes. The process gets blocked after pushing itself onto the queue and is woken up in FIFO order when some other process releases the semaphore. I have also shown the implementation of the Queue required for the same. 
 

@@ -1,0 +1,52 @@
+{
+'question' : 'Which one of the following cation is not present in Group II?'
+'op1' : 'Zn<sup>2+</sup>'
+'op2' : 'As<sup>3+</sup>'
+'op3' : 'Cu<sup>2+</sup>'
+'op4' : 'Pb<sup>2+</sup>'
+'correct' : 1 
+}
+
+
+{
+'question' : 'What is the color of manganese salts ?'
+'op1' : 'Brown'
+'op2' : 'Light pink'
+'op3' : 'Red'
+'op4' : 'Blue'
+'correct' : 2
+}
+
+
+{
+'question' : 'Name the anions which are confirmed with the help of sodium carbonate extract.'
+'op1' : 's<sup>2-</sup>'
+'op2' : 'CO<sub>3</sub><sup>2-</sup>'
+'op3' : 'NO<sub>3</sub><sup>-</sup>'
+'op4' : 'NO<sub>2</sub><sup>-</sup>'
+'correct' : 1
+}
+
+
+{
+'question' : ' Name the radicals which are confirmed with the help of water extract.'
+'op1' : 'cl<sup>-</sup>'
+'op2' : 'I<sup>-</sup>'
+'op3' : 'CO<sub>3<sub><sup>2-</sup>'
+'op4' : 'N<sub>2</sub>O<sub>3-</sub>'
+'correct' : 4
+}
+
+
+{
+'question' : 'CO<sub>2</sub> and SO<sub>2</sub> both turn lime water milky. How will you distinguish between them ?'
+'op1' : 'By passing through ferrous sulphate solution'
+'op2' : 'By passsing through potassium dichromate solution'
+'op3' : 'By passing through sodium dichromate solution'
+'op4' : 'By passing through calcium dichromate solution'
+'correct' : 2
+}
+
+
+
+
